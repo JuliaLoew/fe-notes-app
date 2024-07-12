@@ -17,7 +17,7 @@ const RootLayout = () => {
             </li>
             <li>
               <NavLink to='/school-notes'>School Notes</NavLink>
-              {/* <NavLink to='/zusammenfassung-notes'>Zusammenfassung Notes</NavLink> */}
+             
             </li>
           </ul>
         </div>
